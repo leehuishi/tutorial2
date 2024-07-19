@@ -1,0 +1,5 @@
+This file does the following
+- consist of original assignment 3
+- generate node14-alpine.tar file (docker pull "", docker save "")
+- generate node18-alpine.tar file
+- consist of the commands in nodes and steps file

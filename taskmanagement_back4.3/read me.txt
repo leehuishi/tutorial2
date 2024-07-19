@@ -1,0 +1,7 @@
+This file does the following
+- consist of the dockerfile 
+- dockerfile2 is a reference 
+- consist of the original assignment3 
+- secure_file is a password protected zip file that zip node14-alpine and taskmanagement_back4-1.0.0.tgz file with password: abc123
+- unzip then run dockerfile
+- consist of a compare_package_json.sh file (it is use previously but in the end was not use - can use git bash to run 

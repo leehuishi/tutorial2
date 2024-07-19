@@ -1,0 +1,5 @@
+This file does the following
+- Is used to generate tgz file
+a) package.json only 
+b) npm install (node modules)
+c) npm pack -> back the node_modules and package.json in tgz folder
